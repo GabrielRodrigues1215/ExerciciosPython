@@ -5,3 +5,4 @@ ca = float(input('Digite o comprimento do cateto adjacente em metros:  '))
 #hip =  math.sqrt(hipq)
 hip = math.hypot(co, ca)
 print('valor correto da hipotenusa {}m'.format(hip))
+#Corrigido
