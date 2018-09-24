@@ -3,7 +3,8 @@ python:
   - "3.6"  # 3.6 development branch
   
 # command to install dependencies
-pip install -U pytest
+install:
+  - pip install -U pytest
 # command to run tests
 script:
-  -teste.py
+  - python test.py
