@@ -6,4 +6,4 @@ python:
 pip install -U pytest
 # command to run tests
 script:
-  -ex001.py
+  -teste.py
