@@ -3,7 +3,7 @@ python:
   - "3.6"  # 3.6 development branch
   
 # command to install dependencies
-
+pip install -U pytest
 # command to run tests
 script:
   - PythonExercicios/ex001.py
