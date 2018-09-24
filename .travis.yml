@@ -7,4 +7,4 @@ install:
   - pip install -U pytest
 # command to run tests
 script:
-  - python test.py
+  - python ex012.py
